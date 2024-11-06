@@ -11,5 +11,5 @@ accountPassword = "155421"
 console.table([accountId, acccountEmail, accountPassword]);
 
 /* Prefer not to use var
-because of issue in block scope and fucntional scope
+because of issue in block scope and fucntional scope*/
 
